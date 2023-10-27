@@ -19,7 +19,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/mhmod-ahmed-bb7417232/" target="_blank"><img src="[https://www.linkedin.com/in/mhmod-ahmed-bb7417232/](https://store-images.s-microsoft.com/image/apps.31120.9007199266245564.44dc7699-748d-4c34-ba5e-d04eb48f7960.bc4172bd-63f0-455a-9acd-5457f44e4473?w=207)"/></a>
+<a href="https://www.linkedin.com/in/mhmod-ahmed-bb7417232/" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20A.Shawqi-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
