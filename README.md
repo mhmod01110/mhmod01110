@@ -9,9 +9,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+%7C+FastAPI+%7C+AI%2FML;LLMs+%7C+RAG+%7C+NLP+%7C+Automation;Building+Production-Ready+Intelligent+Systems;Always+Learning%2C+Building%2C+Improving&font=Fira+Code&center=true&width=620&height=50&color=f75c7e&vCenter=true&size=19">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+%7C+FastAPI+%7C+AI%2FML;LLMs+%7C+RAG+%7C+NLP+%7C+Automation;Building+Production-Ready+Intelligent+Systems;Always+Learning%2C+Building%2C+Improving&font=Fira+Code&center=true&width=620&height=50&color=f75c7e&vCenter=true&size=19">
 </p>
 
 ---
@@ -22,7 +20,11 @@ I'm a **Python Developer and AI & Automation Engineer** with a background in **E
 
 My main focus is building **practical, production-oriented software systems** where backend engineering, AI, automation, and data come together.
 
-I enjoy taking a problem from **idea → architecture → implementation → deployment**, with particular interest in:
+I enjoy taking a problem from:
+
+**Idea → Architecture → Development → Integration → Deployment**
+
+with particular interest in:
 
 * 🐍 **Python Backend Development**
 * ⚡ **FastAPI & REST APIs**
@@ -34,19 +36,19 @@ I enjoy taking a problem from **idea → architecture → implementation → dep
 * 🔍 **Web Scraping & Intelligent Data Extraction**
 * 🧩 **Algorithms, Problem Solving & Engineering**
 
-I care about more than just making models work — I enjoy building the **software infrastructure around them** so they can be reliable, maintainable, and useful in real applications.
+I care about more than just making models work — I enjoy building the **software infrastructure around them** so they can be reliable, maintainable, and useful in real-world applications.
 
 ---
 
 ## 🛠️ Technical Stack
 
-### Programming
+### 💻 Programming
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,js,git,github" />
 </p>
 
-### Backend & APIs
+### ⚡ Backend & APIs
 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,django" />
@@ -60,7 +62,7 @@ I care about more than just making models work — I enjoy building the **softwa
 * API integrations
 * Web scraping & automation
 
-### AI / Machine Learning
+### 🤖 AI / Machine Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
@@ -74,7 +76,7 @@ I care about more than just making models work — I enjoy building the **softwa
 * Feature Engineering
 * Model evaluation & experimentation
 
-### LLM & RAG
+### 🧠 LLM & RAG
 
 * OpenAI APIs
 * Hugging Face
@@ -85,10 +87,10 @@ I care about more than just making models work — I enjoy building the **softwa
 * Hybrid Retrieval
 * Reranking
 * Prompt Engineering
-* LLM application architecture
-* PII detection & data sanitization
+* LLM Application Architecture
+* PII Detection & Data Sanitization
 
-### Databases & Messaging
+### 🗄️ Databases & Messaging
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq" />
@@ -103,7 +105,7 @@ I care about more than just making models work — I enjoy building the **softwa
 * Celery
 * RabbitMQ
 
-### DevOps & Deployment
+### ☁️ DevOps & Deployment
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github" />
@@ -116,11 +118,11 @@ I care about more than just making models work — I enjoy building the **softwa
 * Service-oriented architectures
 * Monitoring & logging
 
-### Automation
+### ⚙️ Automation
 
 * UiPath
-* Browser automation
 * Playwright
+* Browser automation
 * Intelligent workflow automation
 * Data extraction & processing
 
@@ -142,22 +144,23 @@ Examples include:
 
 ### 🔎 RAG & Knowledge Systems
 
-Experience building retrieval systems using:
+I work with end-to-end retrieval pipelines such as:
 
 **Document Parsing → Chunking → Embeddings → Vector Search → Hybrid Retrieval → Reranking → LLM**
 
-with technologies such as:
+with technologies including:
 
 `Docling` · `LlamaIndex` · `Qdrant` · `MongoDB` · `Groq`
 
 ### 🔐 AI Security & Data Protection
 
-Interested in making AI systems safer through:
+Interested in building safer AI pipelines through:
 
 * PII detection
-* Data masking / anonymization
+* Data masking & anonymization
 * LLM input sanitization
-* Secure AI pipelines
+* Secure AI integrations
+* Privacy-aware AI workflows
 
 ### ⚙️ Backend & Automation Systems
 
@@ -167,17 +170,22 @@ Building asynchronous and scalable backend systems using:
 
 ---
 
-## 📌 Selected Areas of Experience
+## 🎯 Professional Focus
 
-```text
-Python Development       ████████████████████
-FastAPI / Backend        ████████████████████
-AI / Machine Learning    ██████████████████░░
-LLM / RAG                ██████████████████░░
-Automation               █████████████████░░░
-Databases                █████████████████░░░
-DevOps / Deployment      ███████████████░░░░░
-```
+My current professional focus is at the intersection of:
+
+**Backend Engineering + AI + Automation**
+
+I particularly enjoy projects involving:
+
+* AI-powered SaaS platforms
+* LLM integrations
+* RAG systems
+* Intelligent automation
+* Backend APIs
+* Data processing pipelines
+* Web scraping & extraction
+* AI-assisted business workflows
 
 ---
 
@@ -189,7 +197,7 @@ I'm particularly interested in the intersection of:
 
 **Mathematics + Programming + Signals + AI + Real-World Systems**
 
-This engineering perspective helps me think beyond individual models and focus on the complete system surrounding them.
+This engineering perspective helps me think beyond individual models and focus on the **complete system surrounding them**.
 
 ---
 
@@ -209,6 +217,25 @@ I believe that understanding **why something works** is just as important as kno
 
 ---
 
+## 💼 Freelance Profiles
+
+<p>
+  <a href="https://www.upwork.com/freelancers/~01ab036431dc538035" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+  <a href="https://mostaql.com/u/mhmod01110" target="_blank">
+    <img src="https://img.shields.io/badge/Mostaql-1E88E5?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://www.fiverr.com/mahmoud01110/" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  </a>
+  <a href="https://app.ureed.com/profile/mhmod.mhmod01110" target="_blank">
+    <img src="https://img.shields.io/badge/Ureed-FF6B35?style=for-the-badge&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 🔗 Connect With Me
 
 <p>
@@ -222,18 +249,18 @@ I believe that understanding **why something works** is just as important as kno
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmod01110&show_icons=true&hide_border=true&rank_icon=github&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmod01110&show_icons=true&hide_border=true&rank_icon=github&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmod01110&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmod01110&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mhmod01110&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=mhmod01110&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
